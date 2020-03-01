@@ -1,0 +1,226 @@
+body {
+
+    background-color: #20B2AA	;
+
+    color: #000305;
+
+    font-size: 90%;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    line-height:1.5;
+
+    text-align: left ;
+
+}
+
+a {text-decoration: none;}
+
+a:link,a:visited{ color:#00FFFF;}
+
+a:hover,a:active{ color: gray;}
+
+.body {
+
+    margin:10px auto;
+
+    width:70%;
+
+    clear: both;
+
+}
+
+.maincontent{
+
+    width: 70%;
+
+    float:left;
+
+}
+
+/* -------main header-------------------- */
+
+.mainheader img {
+
+    width: 100%;
+
+}
+
+.mainheader nav {
+   background-color: #20B2AA	;
+   height: 70px;
+
+   border-radius: 5px;
+
+  -webkit-border-radius: 5px;
+
+   -moz-border-radius: 5px;
+
+    
+
+}
+
+.mainheader nav ul {
+
+    text-align: center;
+
+    list-style: none;
+
+    margin:0 auto;
+
+}
+
+.mainheader nav ul li {
+
+    display: inline;
+
+}
+
+.mainheader a:link, .mainheader a:visited{
+
+    color:#C0C0C0;
+
+    padding: 10px 40px;
+
+    display : inline-block;
+
+    height:20px;
+
+}
+
+.mainheader a:hover, .mainheader a:active{
+
+    color:#C0C0C0;
+
+    background-color: #20B2AA	;
+
+    text-shadow:none;
+
+}
+
+/* --------main content--------- */
+
+.top-content{
+
+    background-color: #20B2AA	;
+
+    padding:3%;
+
+    margin-top:3%;
+
+    border-radius: 5px;
+
+    -webkit-border-radius: 5px;
+
+     -moz-border-radius: 5px;
+
+      
+
+}
+
+.post_info{
+
+    color:#C0C0C0;
+
+    font-size: 90%;
+
+    font-style: italic;
+
+    margin-top: -10px;
+
+}
+
+.post_content{
+
+    font-size:100%;
+
+    font-style: oblique;
+
+    line-height: normal;
+
+    list-style: none;
+
+    display: block;
+
+}
+
+.thesidebar{
+
+    width:24%;
+
+    float:left;
+
+    margin:2% 0 0 2%;
+
+    padding:2%;
+
+    background-color: #20B2AA	;
+
+    border-radius: 5px;
+
+    -webkit-border-radius: 5px;
+
+     -moz-border-radius: 5px;
+
+    
+
+      
+
+}
+
+.footer{
+
+    width:100%;
+
+    float:left;
+
+    height:60px;
+
+    background-color: #20B2AA	;
+
+    border-radius: 5px;
+
+    -webkit-border-radius: 5px;
+
+     -moz-border-radius: 5px;
+
+     margin-top: 10px;
+
+    
+
+}
+
+.footer p {
+
+    text-align: center;
+
+    color:rgb(52, 38, 235);
+
+    width: 90%;
+
+}
+
+.lovely{
+
+    color:blue(248, 245, 250);
+
+}
+
+.post-image{
+
+    width: 100%;
+
+}
+
+figure{
+
+    margin:25px 0;
+
+    font-size :80%;
+
+    color:#999;
+
+}
+
+.maincontent{width: 100%;}
+
